@@ -1,0 +1,5 @@
+mvn clean install
+
+Run tomcat servers
+
+http://localhost:8082/SpringRestfulWebServices/student/test
